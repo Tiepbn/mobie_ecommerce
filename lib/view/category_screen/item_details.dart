@@ -226,16 +226,16 @@ class ItemDetails extends StatelessWidget {
                             (index) => Column(
                                   crossAxisAlignment: CrossAxisAlignment.start,
                                   children: [
-                                    Image.asset(imgP1,
+                                    Image.asset(fpHomeScreen[index],
                                         width: 150, fit: BoxFit.cover),
                                     10.heightBox,
-                                    "Laptop 4GB/64GB"
+                                    textfpHomeScreen[index]
                                         .text
                                         .fontFamily(semibold)
                                         .color(darkFontGrey)
                                         .make(),
                                     10.heightBox,
-                                    "15.000.000"
+                                    pricefpHomeScreen[index]
                                         .text
                                         .color(redColor)
                                         .fontFamily(bold)

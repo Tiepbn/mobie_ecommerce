@@ -72,3 +72,13 @@ const pricefpHomeScreen = [
   "200 000",
   "130 000"
 ];
+
+
+const categoryDetail_girlDress = [
+  categoryDetail_girlDress1,
+  categoryDetail_girlDress2,
+  categoryDetail_girlDress3,
+  categoryDetail_girlDress4,
+  categoryDetail_girlDress5,
+  categoryDetail_girlDress6
+];

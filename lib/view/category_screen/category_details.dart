@@ -1,3 +1,4 @@
+import 'package:emart_app/consts/lists.dart';
 import 'package:emart_app/view/category_screen/item_details.dart';
 import 'package:flutter/material.dart';
 import 'package:emart_app/consts/consts.dart';
@@ -25,16 +26,17 @@ class CategoryDetails extends StatelessWidget {
                       child: Row(
                         children: List.generate(
                             6,
-                            (index) => "Baby Clothing"
+                            (index) => 
+                            categoriesList[index]
                                 .text
                                 .size(12)
                                 .fontFamily(semibold)
                                 .color(darkFontGrey)
-                                .makeCentered()
+                                .makeCentered()                                
                                 .box
                                 .white
                                 .rounded
-                                .size(120, 60)
+                                .size(200, 60)
                                 .margin(EdgeInsets.symmetric(horizontal: 4))
                                 .make()),
                       )),
@@ -54,31 +56,31 @@ class CategoryDetails extends StatelessWidget {
                       return Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
-                          Image.asset(imgP5,
+                          Image.asset(categoryDetail_girlDress[index],
                               height: 200, width: 200, fit: BoxFit.cover),
                           // 10.heightBox,
-                          "Laptop 4GB/64GB"
-                              .text
-                              .fontFamily(semibold)
-                              .color(darkFontGrey)
-                              .make(),
+                          textfpHomeScreen[index]
+                            .text
+                            .fontFamily(semibold)
+                            .color(darkFontGrey)
+                            .make(),
                           10.heightBox,
-                          "15.000.000"
-                              .text
-                              .color(redColor)
-                              .fontFamily(bold)
-                              .size(16)
-                              .make(),
+                          pricefpHomeScreen[index]
+                            .text
+                            .color(redColor)
+                            .fontFamily(bold)
+                            .size(16)
+                            .make(),
                         ],
                       )
-                          .box
-                          .white
-                          .margin(const EdgeInsets.symmetric(horizontal: 4))
-                          .roundedSM
-                          .outerShadowSm
-                          // .padding(const EdgeInsets.all(12))
-                          .make()
-                          .onTap(() {
+                      .box
+                      .white
+                      .margin(const EdgeInsets.symmetric(horizontal: 4))
+                      .roundedSM
+                      .outerShadowSm
+                      // .padding(const EdgeInsets.all(12))
+                      .make()
+                      .onTap(() {
                         Get.to(() => ItemDetails(title: "Hanh Item"));
                       });
                     },

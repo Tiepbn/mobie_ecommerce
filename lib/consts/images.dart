@@ -69,6 +69,13 @@ const imgCategoryScreen7 = "assets/images/categoryScreen7.jpg";
 const imgCategoryScreen8 = "assets/images/categoryScreen8.jpg";
 const imgCategoryScreen9 = "assets/images/categoryScreen9.jpg";
 
+const categoryDetail_girlDress1 = "assets/images/categoryDetail_girlDress1.jpg";
+const categoryDetail_girlDress2 = "assets/images/categoryDetail_girlDress2.jpg";
+const categoryDetail_girlDress3 = "assets/images/categoryDetail_girlDress3.jpg";
+const categoryDetail_girlDress4 = "assets/images/categoryDetail_girlDress4.jpg";
+const categoryDetail_girlDress5 = "assets/images/categoryDetail_girlDress5.jpg";
+const categoryDetail_girlDress6 = "assets/images/categoryDetail_girlDress6.jpg";
+
 const imgB1 = "assets/images/b1.jpeg";
 const imgB2 = "assets/images/b2.jpeg";
 const imgB3 = "assets/images/b3.jpeg";
