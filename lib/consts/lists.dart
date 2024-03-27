@@ -31,15 +31,15 @@ const categoriesList = [
 ];
 
 const CategoryImages = [
-  imgFc1,
-  imgFc2,
-  imgFc3,
-  imgFc4,
-  imgFc5,
-  imgFc6,
-  imgFc7,
-  imgFc8,
-  imgFc9,
+  imgCategoryScreen1,
+  imgCategoryScreen2,
+  imgCategoryScreen3,
+  imgCategoryScreen4,
+  imgCategoryScreen5,
+  imgCategoryScreen6,
+  imgCategoryScreen7,
+  imgCategoryScreen8,
+  imgCategoryScreen9,
 ];
 
 const profileButtonsList = [orders, wishlist, massage];

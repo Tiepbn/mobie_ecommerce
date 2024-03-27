@@ -1,6 +1,7 @@
 import 'package:emart_app/consts/colors.dart';
 import 'package:emart_app/consts/consts.dart';
 import 'package:emart_app/consts/lists.dart';
+import 'package:emart_app/view/category_screen/category_screen.dart';
 import 'package:emart_app/widgets_common/our_button.dart';
 import 'package:flutter/material.dart';
 
@@ -41,7 +42,7 @@ class ItemDetails extends StatelessWidget {
                       itemCount: 3,
                       itemBuilder: (context, index) {
                         return Image.asset(
-                          imgFc5,
+                          imgCategoryScreen1,
                           width: double.infinity,
                           fit: BoxFit.fill,
                         );

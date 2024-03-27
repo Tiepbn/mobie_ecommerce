@@ -58,6 +58,17 @@ const fpHomeScreen3 = "assets/images/fpHomeScreen3.jpg";
 const fpHomeScreen4 = "assets/images/fpHomeScreen4.jpg";
 const fpHomeScreen5 = "assets/images/fpHomeScreen5.jpg";
 const fpHomeScreen6 = "assets/images/fpHomeScreen6.jpg";
+
+const imgCategoryScreen1 = "assets/images/categoryScreen1.jpg";
+const imgCategoryScreen2 = "assets/images/categoryScreen2.jpg";
+const imgCategoryScreen3 = "assets/images/categoryScreen3.jpg";
+const imgCategoryScreen4 = "assets/images/categoryScreen4.jpg";
+const imgCategoryScreen5 = "assets/images/categoryScreen5.jpg";
+const imgCategoryScreen6 = "assets/images/categoryScreen6.jpg";
+const imgCategoryScreen7 = "assets/images/categoryScreen7.jpg";
+const imgCategoryScreen8 = "assets/images/categoryScreen8.jpg";
+const imgCategoryScreen9 = "assets/images/categoryScreen9.jpg";
+
 const imgB1 = "assets/images/b1.jpeg";
 const imgB2 = "assets/images/b2.jpeg";
 const imgB3 = "assets/images/b3.jpeg";
@@ -69,15 +80,7 @@ const imgB8 = "assets/images/b8.jpeg";
 const imgB9 = "assets/images/b9.jpeg";
 const imgB10 = "assets/images/b10.jpeg";
 const imgCod = "assets/images/cod.png";
-const imgFc1 = "assets/images/fc1.jpeg";
-const imgFc2 = "assets/images/fc2.jpeg";
-const imgFc3 = "assets/images/fc3.jpeg";
-const imgFc4 = "assets/images/fc4.jpeg";
-const imgFc5 = "assets/images/fc5.jpeg";
-const imgFc6 = "assets/images/fc6.jpeg";
-const imgFc7 = "assets/images/fc7.jpeg";
-const imgFc8 = "assets/images/fc8.jpeg";
-const imgFc9 = "assets/images/fc9.jpeg";
+
 const imgFc10 = "assets/images/fc10.jpg";
 const imgFd1 = "assets/images/fd1.jpg";
 const imgFd2 = "assets/images/fd2.jpg";
