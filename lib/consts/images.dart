@@ -69,12 +69,47 @@ const imgCategoryScreen7 = "assets/images/categoryScreen7.jpg";
 const imgCategoryScreen8 = "assets/images/categoryScreen8.jpg";
 const imgCategoryScreen9 = "assets/images/categoryScreen9.jpg";
 
-const categoryDetail_girlDress1 = "assets/images/categoryDetail_girlDress1.jpg";
-const categoryDetail_girlDress2 = "assets/images/categoryDetail_girlDress2.jpg";
-const categoryDetail_girlDress3 = "assets/images/categoryDetail_girlDress3.jpg";
-const categoryDetail_girlDress4 = "assets/images/categoryDetail_girlDress4.jpg";
-const categoryDetail_girlDress5 = "assets/images/categoryDetail_girlDress5.jpg";
-const categoryDetail_girlDress6 = "assets/images/categoryDetail_girlDress6.jpg";
+const categoryDetailGirlDress1 = "assets/images/categoryDetail_girlDress1.jpg";
+const categoryDetailGirlDress2 = "assets/images/categoryDetail_girlDress2.jpg";
+const categoryDetailGirlDress3 = "assets/images/categoryDetail_girlDress3.jpg";
+const categoryDetailGirlDress4 = "assets/images/categoryDetail_girlDress4.jpg";
+const categoryDetailGirlDress5 = "assets/images/categoryDetail_girlDress5.jpg";
+const categoryDetailGirlDress6 = "assets/images/categoryDetail_girlDress6.jpg";
+
+const categoryDetailMenClothes1 = "assets/images/categoryDetail_menClothes1.jpg";
+const categoryDetailMenClothes2 = "assets/images/categoryDetail_menClothes2.jpg";
+const categoryDetailMenClothes3 = "assets/images/categoryDetail_menClothes3.jpg";
+const categoryDetailMenClothes4 = "assets/images/categoryDetail_menClothes4.jpg";
+const categoryDetailMenClothes5 = "assets/images/categoryDetail_menClothes5.jpg";
+const categoryDetailMenClothes6 = "assets/images/categoryDetail_menClothes6.jpg";
+
+const categoryDetailComputerAcessories1 = "assets/images/categoryDetail_computerAcessories1.jpg";
+const categoryDetailComputerAcessories2 = "assets/images/categoryDetail_computerAcessories2.jpg";
+const categoryDetailComputerAcessories3 = "assets/images/categoryDetail_computerAcessories3.jpg";
+const categoryDetailComputerAcessories4 = "assets/images/categoryDetail_computerAcessories4.jpg";
+const categoryDetailComputerAcessories5 = "assets/images/categoryDetail_computerAcessories5.jpg";
+const categoryDetailComputerAcessories6 = "assets/images/categoryDetail_computerAcessories6.jpg";
+
+const categoryDetailAutomobie1 = "assets/images/categoryDetail_automobie1.jpg";
+const categoryDetailAutomobie2 = "assets/images/categoryDetail_automobie2.jpg";
+const categoryDetailAutomobie3 = "assets/images/categoryDetail_automobie3.jpg";
+const categoryDetailAutomobie4 = "assets/images/categoryDetail_automobie4.jpg";
+const categoryDetailAutomobie5 = "assets/images/categoryDetail_automobie5.jpg";
+const categoryDetailAutomobie6 = "assets/images/categoryDetail_automobie6.jpg";
+
+const categoryDetailcategoryDetailKidToys1 = "assets/images/categoryDetail_kidToys1.jpg";
+const categoryDetailcategoryDetailKidToys2 = "assets/images/categoryDetail_kidToys2.jpg";
+const categoryDetailcategoryDetailKidToys3 = "assets/images/categoryDetail_kidToys3.jpg";
+const categoryDetailcategoryDetailKidToys4 = "assets/images/categoryDetail_kidToys4.jpg";
+const categoryDetailcategoryDetailKidToys5 = "assets/images/categoryDetail_kidToys5.jpg";
+const categoryDetailcategoryDetailKidToys6 = "assets/images/categoryDetail_kidToys6.jpg";
+
+const categoryDetailcategoryDetailSports1 = "assets/images/categoryDetail_sports1.jpg";
+const categoryDetailcategoryDetailSports2 = "assets/images/categoryDetail_sports2.jpg";
+const categoryDetailcategoryDetailSports3 = "assets/images/categoryDetail_sports3.jpg";
+const categoryDetailcategoryDetailSports4 = "assets/images/categoryDetail_sports4.jpg";
+const categoryDetailcategoryDetailSports5 = "assets/images/categoryDetail_sports5.jpg";
+const categoryDetailcategoryDetailSports6 = "assets/images/fpHomeScreen2.jpg";
 
 const imgB1 = "assets/images/b1.jpeg";
 const imgB2 = "assets/images/b2.jpeg";

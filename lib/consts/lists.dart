@@ -1,5 +1,6 @@
 import 'package:emart_app/consts/consts.dart';
 import 'package:emart_app/consts/images.dart';
+import 'package:emart_app/view/category_screen/category_details.dart';
 import 'package:flutter/foundation.dart';
 
 const socialIconList = [
@@ -74,11 +75,63 @@ const pricefpHomeScreen = [
 ];
 
 
-const categoryDetail_girlDress = [
-  categoryDetail_girlDress1,
-  categoryDetail_girlDress2,
-  categoryDetail_girlDress3,
-  categoryDetail_girlDress4,
-  categoryDetail_girlDress5,
-  categoryDetail_girlDress6
+const categoryDetail1 = [
+  categoryDetailGirlDress1,
+  categoryDetailGirlDress2,
+  categoryDetailGirlDress3,
+  categoryDetailGirlDress4,
+  categoryDetailGirlDress5,
+  categoryDetailGirlDress6
+];
+const categoryDetail2 = [
+  categoryDetailMenClothes1,
+  categoryDetailMenClothes2,
+  categoryDetailMenClothes3,
+  categoryDetailMenClothes4,
+  categoryDetailMenClothes5,
+  categoryDetailMenClothes6
+];
+const categoryDetail3 = [
+  categoryDetailAutomobie1,
+  categoryDetailAutomobie2,
+  categoryDetailAutomobie3,
+  categoryDetailAutomobie4,
+  categoryDetailAutomobie5,
+  categoryDetailAutomobie6,
+];
+const categoryDetail4 = [
+  categoryDetailComputerAcessories1,
+  categoryDetailComputerAcessories2,
+  categoryDetailComputerAcessories3,
+  categoryDetailComputerAcessories4,
+  categoryDetailComputerAcessories5,
+  categoryDetailComputerAcessories6
+];
+const categoryDetail5 = [
+  categoryDetailcategoryDetailKidToys1,
+  categoryDetailcategoryDetailKidToys2,
+  categoryDetailcategoryDetailKidToys3,
+  categoryDetailcategoryDetailKidToys4,
+  categoryDetailcategoryDetailKidToys5,
+  categoryDetailcategoryDetailKidToys6,
+];
+const categoryDetail6 = [
+  categoryDetailcategoryDetailSports1,
+  categoryDetailcategoryDetailSports2,
+  categoryDetailcategoryDetailSports3,
+  categoryDetailcategoryDetailSports4,
+  categoryDetailcategoryDetailSports5,
+  categoryDetailcategoryDetailSports6,
+];
+
+const categoryDetailsList =[
+  categoryDetail1,
+  categoryDetail2,
+  categoryDetail3,
+  categoryDetail4,
+  categoryDetail5,
+  categoryDetail6,
+  categoryDetail1,
+  categoryDetail2,
+  categoryDetail3
 ];

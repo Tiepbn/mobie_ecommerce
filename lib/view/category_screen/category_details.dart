@@ -7,7 +7,8 @@ import 'package:get/get.dart';
 
 class CategoryDetails extends StatelessWidget {
   final String? title;
-  const CategoryDetails({Key? key, required this.title}) : super(key: key);
+  final int? indexPageCategoryDetail;
+  const CategoryDetails({Key? key, required this.title, required this.indexPageCategoryDetail}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -56,7 +57,8 @@ class CategoryDetails extends StatelessWidget {
                       return Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
-                          Image.asset(categoryDetail_girlDress[index],
+                        
+                          Image.asset(categoryDetailsList[indexPageCategoryDetail!][index],
                               height: 200, width: 200, fit: BoxFit.cover),
                           // 10.heightBox,
                           textfpHomeScreen[index]
