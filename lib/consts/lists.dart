@@ -123,6 +123,30 @@ const categoryDetail6 = [
   categoryDetailcategoryDetailSports5,
   categoryDetailcategoryDetailSports6,
 ];
+const categoryDetail7 = [
+  categoryDetailcategoryJewelery1,
+  categoryDetailcategoryJewelery2,
+  categoryDetailcategoryJewelery3,
+  categoryDetailcategoryJewelery4,
+  categoryDetailcategoryJewelery5,
+  categoryDetailcategoryJewelery6,
+];
+const categoryDetail8 = [
+  imgPi1,
+  imgPi2,
+  imgPi3,
+  imgPi4,
+  imgPi5,
+  imgCategoryScreen8,
+];
+const categoryDetail9 = [
+  categoryDetailcategoryDetailSports1,
+  categoryDetailcategoryDetailSports2,
+  categoryDetailcategoryDetailSports3,
+  categoryDetailcategoryDetailSports4,
+  categoryDetailcategoryDetailSports5,
+  categoryDetailcategoryDetailSports6,
+];
 
 const categoryDetailsList =[
   categoryDetail1,
@@ -131,7 +155,7 @@ const categoryDetailsList =[
   categoryDetail4,
   categoryDetail5,
   categoryDetail6,
-  categoryDetail1,
-  categoryDetail2,
-  categoryDetail3
+  categoryDetail7,
+  categoryDetail8,
+  categoryDetail9
 ];

@@ -111,6 +111,20 @@ const categoryDetailcategoryDetailSports4 = "assets/images/categoryDetail_sports
 const categoryDetailcategoryDetailSports5 = "assets/images/categoryDetail_sports5.jpg";
 const categoryDetailcategoryDetailSports6 = "assets/images/fpHomeScreen2.jpg";
 
+const categoryDetailcategoryJewelery1 = "assets/images/categoryDetail_Jewelery1.jpg";
+const categoryDetailcategoryJewelery2 = "assets/images/categoryDetail_Jewelery2.jpg";
+const categoryDetailcategoryJewelery3 = "assets/images/categoryDetail_Jewelery3.jpg";
+const categoryDetailcategoryJewelery4 = "assets/images/categoryDetail_Jewelery4.jpg";
+const categoryDetailcategoryJewelery5 = "assets/images/categoryDetail_Jewelery5.jpg";
+const categoryDetailcategoryJewelery6 = "assets/images/categoryScreen7.jpg";
+
+const categoryDetailcategoryFuniture1 = "assets/images/categoryDetail_furniture1.jpg";
+const categoryDetailcategoryFuniture2 = "assets/images/categoryDetail_furniture1.jpg";
+const categoryDetailcategoryFuniture3 = "assets/images/categoryDetail_furniture1.jpg";
+const categoryDetailcategoryFuniture4 = "assets/images/categoryDetail_furniture1.jpg";
+const categoryDetailcategoryFuniture5 = "assets/images/categoryDetail_furniture1.jpg";
+const categoryDetailcategoryFuniture6 = "assets/images/categoryScreen9.jpg";
+
 const imgB1 = "assets/images/b1.jpeg";
 const imgB2 = "assets/images/b2.jpeg";
 const imgB3 = "assets/images/b3.jpeg";
